@@ -1,0 +1,16 @@
+
+*.jar
+
+bin/gatk
+
+*.bam
+
+*.bai
+
+*.dict
+
+*.fasta
+
+*.fai
+
+*.old
